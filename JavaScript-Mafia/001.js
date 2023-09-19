@@ -22,3 +22,8 @@ console.log(changed);
 let allWord1 = mahi.replaceAll("love", "valobashi")
 let allWord2 = mahi2.replaceAll("your", "tomer")
 console.log(allWord1, allWord2);
+
+// trim : remove whiteSpace "start - end " - only ... not middle
+let whiteSpace = "         i miss   whiteSpace        "
+let removeWhiteSpace = whiteSpace.trim()
+console.log(removeWhiteSpace);
