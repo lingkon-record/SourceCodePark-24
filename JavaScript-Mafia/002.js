@@ -32,4 +32,6 @@ let mySalaryChat = [8000, 12000, 16000, 20000]
 let removeLowSalary = mySalaryChat.filter(salaryList => salaryList >= 15000 )
 console.log(removeLowSalary);
 
+// new
+
 
