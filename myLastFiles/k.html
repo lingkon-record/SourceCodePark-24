@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Pricing Packages</title>
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.pricing-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.package {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.package h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.price {
+    font-size: 30px;
+    color: #007bff;
+    margin: 15px 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#selected-package {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    </style>
+</head>
+<body>
+    <div class="pricing-table">
+        <div class="package">
+            <h2>Basic</h2>
+            <div class="price">$19/month</div>
+            <ul>
+                <li>Feature 1</li>
+                <li>Feature 2</li>
+                <li>Feature 3</li>
+            </ul>
+            <button onclick="selectPackage('Basic')">Select</button>
+        </div>
+        <div class="package">
+            <h2>Medium</h2>
+            <div class="price">$39/month</div>
+            <ul>
+                <li>Feature 1</li>
+                <li>Feature 2</li>
+                <li>Feature 3</li>
+            </ul>
+            <button onclick="selectPackage('Medium')">Select</button>
+        </div>
+        <div class="package">
+            <h2>Pro</h2>
+            <div class="price">$59/month</div>
+            <ul>
+                <li>Feature 1</li>
+                <li>Feature 2</li>
+                <li>Feature 3</li>
+            </ul>
+            <button onclick="selectPackage('Pro')">Select</button>
+        </div>
+    </div>
+    <p id="selected-package">Selected Package: None</p>
+    <script>
+        function selectPackage(packageName) {
+    document.getElementById('selected-package').textContent = `Selected Package: ${packageName}`;
+}
+
+    </script>
+</body>
+</html>
