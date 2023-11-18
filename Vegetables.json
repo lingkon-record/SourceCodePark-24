@@ -1,0 +1,85 @@
+ {
+  "winter_vegetables_in_India": [
+    {
+      "name": "Carrot",
+      "price": "$1.5 per kg",
+      "color": "Orange",
+      "age": "2-4 months",
+      "cultivation_area": "Northern Plains",
+      "months": "October to February",
+      "market": "Delhi Vegetable Market",
+      "state": "Uttar Pradesh, Punjab, Haryana",
+      "profit": "$500 per acre",
+      "farmer": "Rajesh Kumar",
+      "fund": "$1,000",
+      "advice": "Ensure well-drained soil for better growth.",
+      "disease": "Carrot Rust Fly",
+      "yield_per_acre": "15 tons"
+    },
+    {
+      "name": "Spinach",
+      "price": "$1 per bunch",
+      "color": "Green",
+      "age": "1-2 months",
+      "cultivation_area": "All over India",
+      "months": "October to March",
+      "market": "Mumbai Vegetable Market",
+      "state": "Maharashtra, Karnataka, Tamil Nadu",
+      "profit": "$300 per acre",
+      "farmer": "Sangeeta Patel",
+      "fund": "$800",
+      "advice": "Harvest leaves regularly for continuous growth.",
+      "disease": "Downy Mildew",
+      "yield_per_acre": "8 tons"
+    },
+    {
+      "name": "Cauliflower",
+      "price": "$2 per piece",
+      "color": "White",
+      "age": "3-6 months",
+      "cultivation_area": "North India",
+      "months": "November to February",
+      "market": "Kolkata Vegetable Market",
+      "state": "Himachal Pradesh, Jammu and Kashmir, Uttarakhand",
+      "profit": "$700 per acre",
+      "farmer": "Anil Singh",
+      "fund": "$1,200",
+      "advice": "Protect from frost for better head formation.",
+      "disease": "Clubroot",
+      "yield_per_acre": "10 tons"
+    },
+    {
+      "name": "Radish",
+      "price": "$0.8 per kg",
+      "color": "Red/White",
+      "age": "1-2 months",
+      "cultivation_area": "All over India",
+      "months": "October to March",
+      "market": "Chennai Vegetable Market",
+      "state": "Rajasthan, Gujarat, Madhya Pradesh",
+      "profit": "$250 per acre",
+      "farmer": "Priya Deshmukh",
+      "fund": "$600",
+      "advice": "Provide well-drained soil for optimal root growth.",
+      "disease": "Black Root Rot",
+      "yield_per_acre": "12 tons"
+    },
+    {
+      "name": "Peas",
+      "price": "$2.5 per kg",
+      "color": "Green",
+      "age": "2-3 months",
+      "cultivation_area": "Northern Plains",
+      "months": "November to February",
+      "market": "Ahmedabad Vegetable Market",
+      "state": "Punjab, Uttar Pradesh, Haryana",
+      "profit": "$450 per acre",
+      "farmer": "Sanjay Verma",
+      "fund": "$900",
+      "advice": "Provide support for climbing varieties.",
+      "disease": "Powdery Mildew",
+      "yield_per_acre": "7 tons"
+    }
+    
+  ]
+    }
