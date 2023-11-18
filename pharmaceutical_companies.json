@@ -1,0 +1,137 @@
+ {
+  "pharmaceutical_companies": [
+    {
+      "name": "Johnson & Johnson",
+      "founder": "Robert Wood Johnson I",
+      "headquarters": "New Brunswick, New Jersey, USA",
+      "net_worth": "$432.85 billion",
+      "supply_region": "Global",
+      "CEO": "Alex Gorsky",
+      "chairman": "Alex Gorsky",
+      "age": 61,
+      "country": "United States"
+    },
+    {
+      "name": "Roche",
+      "founder": "Fritz Hoffmann-La Roche",
+      "headquarters": "Basel, Switzerland",
+      "net_worth": "$61.5 billion",
+      "supply_region": "Global",
+      "CEO": "Severin Schwan",
+      "chairman": "André S. Hoffmann",
+      "age": 54,
+      "country": "Switzerland"
+    },
+    {
+      "name": "Pfizer",
+      "founder": "Charles Pfizer, Charles Erhart",
+      "headquarters": "New York City, New York, USA",
+      "net_worth": "$81.4 billion",
+      "supply_region": "Global",
+      "CEO": "Albert Bourla",
+      "chairman": "Albert Bourla",
+      "age": 60,
+      "country": "United States"
+    },
+    {
+      "name": "Novartis",
+      "founder": "Johann Rudolf Geigy-Merian",
+      "headquarters": "Basel, Switzerland",
+      "net_worth": "$51.9 billion",
+      "supply_region": "Global",
+      "CEO": "Vas Narasimhan",
+      "chairman": "Joerg Reinhardt",
+      "age": 44,
+      "country": "Switzerland"
+    },
+    {
+      "name": "Merck & Co.",
+      "founder": "George W. Merck",
+      "headquarters": "Kenilworth, New Jersey, USA",
+      "net_worth": "$46.84 billion",
+      "supply_region": "Global",
+      "CEO": "Kenneth C. Frazier",
+      "chairman": "Kenneth C. Frazier",
+      "age": 66,
+      "country": "United States"
+    },
+    {
+      "name": "Sanofi",
+      "founder": "Eugène Schueller",
+      "headquarters": "Paris, France",
+      "net_worth": "$44.88 billion",
+      "supply_region": "Global",
+      "CEO": "Paul Hudson",
+      "chairman": "Serge Weinberg",
+      "age": 53,
+      "country": "France"
+    },
+    {
+      "name": "AstraZeneca",
+      "founder": "Alfred Nobel, Ludvig Saxe",
+      "headquarters": "Cambridge, England, UK",
+      "net_worth": "$41.2 billion",
+      "supply_region": "Global",
+      "CEO": "Pascal Soriot",
+      "chairman": "Leif Johansson",
+      "age": 61,
+      "country": "United Kingdom"
+    },
+    {
+      "name": "AbbVie",
+      "founder": "Spun off from Abbott Laboratories",
+      "headquarters": "North Chicago, Illinois, USA",
+      "net_worth": "$33.27 billion",
+      "supply_region": "Global",
+      "CEO": "Richard A. Gonzalez",
+      "chairman": "Richard A. Gonzalez",
+      "age": 68,
+      "country": "United States"
+    },
+    {
+      "name": "Bayer",
+      "founder": "Friedrich Bayer, Johann Friedrich Weskott",
+      "headquarters": "Leverkusen, Germany",
+      "net_worth": "$47.14 billion",
+      "supply_region": "Global",
+      "CEO": "Werner Baumann",
+      "chairman": "Werner Wenning",
+      "age": 59,
+      "country": "Germany"
+    },
+    {
+      "name": "Gilead Sciences",
+      "founder": "Michael L. Riordan",
+      "headquarters": "Foster City, California, USA",
+      "net_worth": "$22.45 billion",
+      "supply_region": "Global",
+      "CEO": "Daniel O'Day",
+      "chairman": "Daniel O'Day",
+      "age": 58,
+      "country": "United States"
+    },
+    {
+      "name": "Eli Lilly and Company",
+      "founder": "Eli Lilly",
+      "headquarters": "Indianapolis, Indiana, USA",
+      "net_worth": "$26.31 billion",
+      "supply_region": "Global",
+      "CEO": "David A. Ricks",
+      "chairman": "David A. Ricks",
+      "age": 54,
+      "country": "United States"
+    },
+    {
+      "name": "Biogen",
+      "founder": "Phillip A. Sharp, Walter Gilbert, Kenneth W. Dryden",
+      "headquarters": "Cambridge, Massachusetts, USA",
+      "net_worth": "$14.38 billion",
+      "supply_region": "Global",
+      "CEO": "Michel Vounatsos",
+      "chairman": "Stelios Papadopoulos",
+      "age": 59,
+      "country": "United States"
+    }
+  
+  ]
+    }
