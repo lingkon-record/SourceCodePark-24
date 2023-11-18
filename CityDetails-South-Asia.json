@@ -1,0 +1,138 @@
+{
+  "cities": [
+    {
+      "name": "Mumbai",
+      "country": "India",
+      "population": 12_478_447,
+      "river": "Arabian Sea",
+      "income": "High",
+      "tax": "Moderate",
+      "tourist_hub": true,
+      "shopping_mall": true,
+      "traffic": "Heavy",
+      "restaurant": "Diverse"
+    },
+    {
+      "name": "Karachi",
+      "country": "Pakistan",
+      "population": 14_910_352,
+      "river": "Arabian Sea",
+      "income": "Medium",
+      "tax": "Low",
+      "tourist_hub": false,
+      "shopping_mall": true,
+      "traffic": "Busy",
+      "restaurant": "Variety"
+    },
+    {
+      "name": "Dhaka",
+      "country": "Bangladesh",
+      "population": 8_906_039,
+      "river": "Buriganga",
+      "income": "Low",
+      "tax": "Low",
+      "tourist_hub": false,
+      "shopping_mall": false,
+      "traffic": "Moderate",
+      "restaurant": "Local Cuisine"
+    },
+    {
+      "name": "Delhi",
+      "country": "India",
+      "population": 18_976_410,
+      "river": "Yamuna",
+      "income": "Medium",
+      "tax": "Moderate",
+      "tourist_hub": true,
+      "shopping_mall": true,
+      "traffic": "Busy",
+      "restaurant": "Culinary Diversity"
+    },
+    {
+      "name": "Colombo",
+      "country": "Sri Lanka",
+      "population": 642_163,
+      "river": "Indian Ocean",
+      "income": "Medium",
+      "tax": "Moderate",
+      "tourist_hub": true,
+      "shopping_mall": true,
+      "traffic": "Moderate",
+      "restaurant": "International Cuisine"
+    },
+    {
+      "name": "Kathmandu",
+      "country": "Nepal",
+      "population": 1_324_162,
+      "river": "Bagmati",
+      "income": "Low",
+      "tax": "Low",
+      "tourist_hub": true,
+      "shopping_mall": false,
+      "traffic": "Light",
+      "restaurant": "Local Delights"
+    },
+    {
+      "name": "Lahore",
+      "country": "Pakistan",
+      "population": 12_188_000,
+      "river": "Ravi",
+      "income": "Medium",
+      "tax": "Moderate",
+      "tourist_hub": false,
+      "shopping_mall": true,
+      "traffic": "Busy",
+      "restaurant": "Traditional Pakistani"
+    },
+    {
+      "name": "Chennai",
+      "country": "India",
+      "population": 7_088_000,
+      "river": "Bay of Bengal",
+      "income": "Medium",
+      "tax": "Moderate",
+      "tourist_hub": true,
+      "shopping_mall": true,
+      "traffic": "Moderate",
+      "restaurant": "South Indian Cuisine"
+    },
+    {
+      "name": "Dharamshala",
+      "country": "India",
+      "population": 53,543,
+      "river": "Kangra",
+      "income": "Low",
+      "tax": "Low",
+      "tourist_hub": true,
+      "shopping_mall": false,
+      "traffic": "Light",
+      "restaurant": "Himalayan Cuisine"
+    },
+    {
+      "name": "Islamabad",
+      "country": "Pakistan",
+      "population": 1_095_064,
+      "river": "Kurang",
+      "income": "Medium",
+      "tax": "Moderate",
+      "tourist_hub": true,
+      "shopping_mall": true,
+      "traffic": "Moderate",
+      "restaurant": "International Flavors"
+    },
+    {
+      "name": "Thimphu",
+      "country": "Bhutan",
+      "population": 115,000,
+      "river": "Wang Chuu",
+      "income": "Low",
+      "tax": "Low",
+      "tourist_hub": true,
+      "shopping_mall": false,
+      "traffic": "Light",
+      "restaurant": "Bhutanese Cuisine"
+    },
+    // Add more cities with similar structure...
+  ]
+    }
+  
